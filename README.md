@@ -8,23 +8,6 @@ C programming language (only, for now):
 - Category Theory
 - Higher Category Theory 
 
-# Quantum field theory:
-- Quantum field theory
-## More:
-- Mean-field theory
-- Renormalization group (QFT), 
-- Critical Phenomena (physics)
-- Gravity (Gravitation)
-### Even more:
-- Statistical mechanics, 
-- Dynamical systems, 
-- Condensed Matter Physics, 
-- Classical field theory, 
-- Classical mechanics, 
-- Motion (physics), 
-- Dynamics (mechanics), 
-- Statics
-
 # Computer Science & Computer Engineering
 - Computational complexity theory,
 - Zipper (data structure)
@@ -65,6 +48,23 @@ C programming language (only, for now):
 
 ## Higher Category Theory 
 - Higher Category Theory 
+
+# Quantum field theory:
+- Quantum field theory
+## More:
+- Mean-field theory
+- Renormalization group (QFT),
+- Critical Phenomena (physics)
+- Gravity (Gravitation)
+### Even more:
+- Statistical mechanics,
+- Dynamical systems,
+- Condensed Matter Physics,
+- Classical field theory,
+- Classical mechanics,
+- Motion (physics),
+- Dynamics (mechanics),
+- Statics
 
 # How to write:
 
