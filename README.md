@@ -6,7 +6,7 @@ C programming language (only) without using C libraries (using vim editor on Ubu
 - Category Theory
 - Higher Category Theory 
 
-# Physics:
+# Quantum field theory:
 - Quantum field theory
 ## More:
 - Mean-field theory
@@ -23,7 +23,7 @@ C programming language (only) without using C libraries (using vim editor on Ubu
 - Dynamics (mechanics), 
 - Statics
 
-# Computer Science/Computer Engineering
+# Computer Science & Computer Engineering
 - Computational complexity theory,
 - Zipper (data structure)
 - Algebraic data type, 
