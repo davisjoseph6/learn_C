@@ -1,4 +1,6 @@
-C programming language (only) without using C libraries (using vim editor on Ubuntu version 22.04.5 LTS or higher)
+C programming language (only, for now):
+- without using C libraries
+- using vim editor on Ubuntu version 22.04.5 LTS or higher.
 
 # Algebraic geometry
 - Algebraic geometry
