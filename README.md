@@ -48,7 +48,10 @@ C programming language (only, for now):
 - models of computation
 
 ## Higher Category Theory 
-- Higher Category Theory 
+- Higher Category Theory
+
+## Formal logic
+- Formal logic
 
 # Quantum field theory (optional):
 - Quantum field theory
@@ -66,6 +69,7 @@ C programming language (only, for now):
 - Motion (physics),
 - Dynamics (mechanics),
 - Statics
+- Metaphysics
 
 # How to write:
 
