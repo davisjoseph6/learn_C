@@ -4,7 +4,7 @@ C programming language (only, for now):
 
 # Algebraic geometry
 - Algebraic geometry
-## More:
+## Category theory:
 - Category Theory
 - Higher Category Theory 
 
@@ -49,7 +49,7 @@ C programming language (only, for now):
 ## Higher Category Theory 
 - Higher Category Theory 
 
-# Quantum field theory:
+# Quantum field theory (optional):
 - Quantum field theory
 ## More:
 - Mean-field theory
