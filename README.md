@@ -25,7 +25,7 @@ C programming language (only, for now):
 3. objdump disassembler and GNU assembler for x-86/64, and x86-64 assembly language. 
 4. GCC’s extended inline assembly.
 5. x-86-64 language implementation (front-end) which also includes a standalone compiler, in C programming language. 
-6. *If Possible*: An Algol 60 implementation (front-end) which also includes a standalone transpiler, in C. 
+6. An Algol 60 (if possible, or else Fortran) implementation (front-end) which also includes a standalone transpiler, in C. 
 7. A Python and CPython language implementations (front-ends) in C with standalone Interpreter and Virtual Machine, in C.   
 8. Machine Learning and AI: A Probably approximately correct learning project. After completing it fully, move on to hosting and deploying it on Amazon Web Services, Microsoft Azure, or Digital Ocean if the first two options are unavailable.
 
