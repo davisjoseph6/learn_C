@@ -17,6 +17,7 @@ C programming language (only, for now):
 - Categorical logic
 - Partial differential equations
 - Category theory
+- Model Theory
 
 ## Projects:
 1. binary system. 
