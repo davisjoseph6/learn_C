@@ -33,6 +33,7 @@ C programming language (only, for now):
 ## Artificial Intelligence (AI) and Machine Learning
 - Probably approximately correct (PAC) Learning
 - Statistical learning theory
+- Partially observable Markov decision process
 
 ### More AI:
 - Neural tangent kernel, 
@@ -40,12 +41,14 @@ C programming language (only, for now):
 - Computational Learning Theory, 
 - Vapnik–Chervonenkis theory,  
 - Topological deep learning
+1. Project: Deep Multi-Agent Reinforcement Learning with Partially Observable Markov Decision Process (POMDP), Using Policy Gradients and a Transformer-Based Deep Neural Network, with an Exploration/Exploitation Balance, and Deep Q-Learning.
 
-## More algorithms and data structures :
+## More Computer Science :
 - graph data structure,
 - Functional data structures
 - buchberger’s algorithm, 
 - models of computation
+- Information theory
 
 ## Higher Category Theory 
 - Higher Category Theory
