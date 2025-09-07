@@ -18,6 +18,7 @@ C programming language (only, for now):
 - Partial differential equations
 - Category theory
 - Model Theory
+- Optimal Control
 
 ## Projects:
 1. binary system. 
