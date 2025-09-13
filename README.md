@@ -24,6 +24,8 @@ C programming language (only, for now):
 - Optimal Control
 - Program analysis
 - Lexical analysis
+- Maxwell's equations
+- Statistical signal processing
 
 ## Projects (take your time to develop and execute):
 1. binary system and x86-64 machine code. 
@@ -34,8 +36,10 @@ C programming language (only, for now):
 6. A Unix shell intepreter (a simple bash clone), and a simple Linux/Unix clone.
 7. MySQL Connector/C
 8. A Python and CPython language implementations (front-ends) in C with standalone interpreter (with bytecodes) and Virtual Machine, in C.
-9. MongoDB C Driver   
-10. Optional: Machine Learning and AI: A Probably approximately correct learning project. After completing it fully, move on to hosting and deploying it on Amazon Web Services, Microsoft Azure, or Digital Ocean if the first two options are unavailable.
+9. CUDA clone following GPGPU format, with a virtual ISA written in C.  
+10. MongoDB C Driver   
+11. Machine Learning and AI: A Probably approximately correct learning project. After completing it fully, move on to hosting and deploying it on Amazon Web Services, Microsoft Azure, or Digital Ocean if the first two options are unavailable.
+
 
 ## More Topics in CS and CE:
 - Graph data structure,
