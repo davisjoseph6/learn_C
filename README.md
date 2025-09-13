@@ -1,5 +1,5 @@
 C programming language (only, for now):
-- without using C libraries
+- without using C computer libraries (or atleast as minimally as possible).
 - using vim editor on Ubuntu version 22.04.5 LTS or higher.
 - how to write programs given at the end.
 
