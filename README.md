@@ -38,8 +38,9 @@ C programming language (only, for now):
 8. A Python and CPython language implementations (front-ends) in C with standalone interpreter (with bytecodes) and Virtual Machine, in C.
 9. CUDA clone following GPGPU format, with a virtual ISA written in C.  
 10. MongoDB C Driver   
-11. Machine Learning and AI: A Probably approximately correct learning project. After completing it fully, move on to hosting and deploying it on Amazon Web Services, Microsoft Azure, or Digital Ocean if the first two options are unavailable.
-
+11. Machine Learning and AI: A Probably approximately correct learning project. After completing it fully, move on to hosting and deploying locally first, then to Amazon Web Services (on SageMaker and Elastic Container Service), Microsoft Azure, or Digital Ocean if the first two options are unavailable.
+12. Distributed computing architecture project involving a complete pipeline with an orchestrater (Apache Airflow), exposed via API to an UI, with Data processing, streaming and computation using CPU, CUDA, Apache Spark and Transformer architectures (AI model versioning on SageMaker), with an optional RAG, Kafka acting as the message bus and with ingestion via HTPS/SFTP to a Data Lake (HDFS/S3) on a Parquest/ORD structure. Cybersecurity features provided via, Authentication, tokenization, Single-Sign On, Secrets Vault, with lifecyle management via Promehteus and Grafana.   
+13. Elliptic-curve cryptography project.
 
 ## More Topics in CS and CE:
 - Graph data structure,
