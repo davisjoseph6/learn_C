@@ -15,8 +15,8 @@ C programming language (only, for now):
 - Computational complexity theory,
 - Zipper (data structure)
 - Algebraic data type, 
-- Information geometry 
-- Convex optimization 
+- Information geometry
+- Linear programming 
 - Topos theory
 - Partial differential equations
 - Category theory
@@ -36,9 +36,11 @@ C programming language (only, for now):
 6. A Unix shell intepreter (a simple bash clone), and a simple Linux/Unix clone.
 7. MySQL Connector/C
 8. A Python and CPython language implementations (front-ends) in C with standalone interpreter (with bytecodes) and Virtual Machine, in C.
-9. CUDA clone following GPGPU format, with a virtual ISA written in C.  
+9. Nvidia CUDA and compiler clone following GPGPU format, with a virtual ISA written in C.  
 10. MongoDB C Driver   
 11. Machine Learning and AI: A Probably approximately correct learning project. After completing it fully, move on to hosting and deploying locally first, then to Amazon Web Services (on SageMaker and Elastic Container Service), Microsoft Azure, or Digital Ocean if the first two options are unavailable.
+12. Distributed computing architecture: implement a project involving pi-calculus and an actor model (computer science), in C programming language.
+12. Build a mini Erlang/OTP-style actor runtime in C that compiles a small π-calculus DSL to actors/mailboxes, using libuv for async scheduling, NNG/ZeroMQ for inter-actor messaging, and Protocol Buffers for typed payloads—then demo it as a fault-tolerant distributed URL shortener with supervisor-like restarts.
 12. Distributed computing architecture project involving a complete pipeline with an orchestrater (Apache Airflow), exposed via API to an UI, with Data processing, streaming and computation using CPU, CUDA, Apache Spark and Transformer architectures (AI model versioning on SageMaker), with an optional RAG, Kafka acting as the message bus and with ingestion via HTPS/SFTP to a Data Lake (HDFS/S3) on a Parquest/ORD structure. Cybersecurity features provided via, Authentication, tokenization, Single-Sign On, Secrets Vault, with lifecyle management via Promehteus and Grafana.   
 13. Elliptic-curve cryptography project.
 
@@ -53,6 +55,9 @@ C programming language (only, for now):
 - Denotational semantics
 - Control flow
 - Data modeling
+- Convex optimization
+- Cybernetics
+- System theory
 
 ### Higher Category Theory: 
 - Higher Category Theory
