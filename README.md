@@ -3,13 +3,13 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - using vim editor on Ubuntu version 22.04.5 LTS or higher.
 - how to write programs given at the end.
 
-# Algebraic geometry
+# 1 algebraic geometry
 - Algebraic geometry
 ## Category theory:
 - Category Theory
 - Higher Category Theory 
 
-# Computer Science and Computer Engineering (CS and CE)
+# 2 cs and ce (Computer Science and Computer Engineering)
 
 ## CS and CE part 1: The basics, foundations, fundamentals:
 - Computational complexity theory,
@@ -90,13 +90,16 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 4. C++/C: MongoDB server (mongod) in C++ and low level driver (libmongoc + libbson) in C.
 
 ### AI and ML part 3.
-- check the README.md inside this directory for topics.
+- check the README.md inside this folder path (`2_cs_and_ce/cs_and_ce_part_3/ai_and_ml_part3/`) for topics.
 
 ### Projects part 6.
 1. Java/C++/C: Distributed computing architecture: implement a project involving pi-calculus and an actor model (computer science).
 2. Python and JavaScript: Machine Learning and AI: Move on to hosting and deploying the PAC learning project (from the section Projects part 3.) locally first, then to Amazon Web Services (on SageMaker and Elastic Container Service), Microsoft Azure, or Digital Ocean if the first two options are unavailable.
 
-# Note
+# 4 applied,interdisciplinary science
+Application of Computer science in Science, including Computational Science (Physics, Biology, etc.), Numerical Analysis, Combinatorics, as well as other i interdisciplinary sciences (economics). Check the README.md inside this folder
+
+# 5 more
 - More: whatever I forgot to add (or any modifications to this list/readme) is found in the folder `more`.
 
 # How to write programs:
