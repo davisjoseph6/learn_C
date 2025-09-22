@@ -13,29 +13,34 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 
 ## CS and CE part 1: The basics, foundations, fundamentals:
 - Computational complexity theory,
-- Zipper (data structure)
-- Algebraic data type, 
+- zipper data structure 
+- heap (data structures)
+- Algebraic data type,
 - Information geometry
 - Linear programming 
 - Topos theory
 - Partial differential equations
 - Category theory
 - Model Theory
+- Domain theory
 - Optimal Control
 - Program analysis
 - Lexical analysis
 - Maxwell's equations
 - Statistical signal processing
+- Turing machine
+- Recursion, and Continuations
 
 ### Projects part 1:
 1. binary system and IBM System/360 machine code.  
-2. objdump disassembler and GNU assembler for IBM System/360, and IBM System/360 assembly language.
+2. objdump disassembler and GNU assembler for IBM System/360, and IBM System/360 assembly language (if possible, otherwise for IBM High Level Assembler (HLASM)).
 3. GCC’s extended inline assembly.
-4. IBM System/360 assembly language implementation (front-end) which also includes a standalone compiler, in C programming language.
+4. IBM System/360 assembly language implementation (front-end) which also includes a standalone compiler, in C programming language (if possible, otherwise for IBM High Level Assembler (HLASM)).
 5. An Algol 60 (if possible, or else Pascal) implementation (front-end) which also includes a standalone transpiler, in C.
+6. A simple clone of Multics shell intepreter, and a simple Multics clone, in C.
 
 ## CS and CE part 2:
-- Graph data structure,
+- Graph data structure
 - Functional data structures
 - buchberger’s algorithm,
 - models of computation
