@@ -98,7 +98,7 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 2. Python and JavaScript: Machine Learning and AI: Move on to hosting and deploying the PAC learning project (from the section Projects part 3.) locally first, then to Amazon Web Services (on SageMaker and Elastic Container Service), Microsoft Azure, or Digital Ocean if the first two options are unavailable.
 
 # 4 applied,interdisciplinary science
-Application of Computer science in Science, including Computational Science (Physics, Biology, etc.), Numerical Analysis, Combinatorics, as well as other i interdisciplinary sciences (economics). Check the README.md inside this folder
+Application of Computer science in Science, including Computational Science (Physics, Biology, etc.), Numerical Analysis, Combinatorics, mathematics of computing, as well as other interdisciplinary sciences (economics). Check the README.md inside this folder
 
 # 5 more
 - More: whatever I forgot to add (or any modifications to this list/readme) is found in the folder `more`.
