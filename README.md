@@ -52,12 +52,12 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 ### Projects part 2. 
 1. A Fortran language implementation (front-end) which also includes a standalone transpiler, in C.
 2. A custom developed C standard library function (method/subroutine), for example print-f.
-3. A Unix shell intepreter (a simple bash clone), and a simple Linux/Unix clone.
-4. A C programming language implementation (front-end) which also includes a standalone transpiler, in C.
-5. Implementation of SQL in C.
-6. Scheme language implementation (front-end) which also includes a standalone transpiler, in C.
-6. x-86-64 language implementation (front-end) which also includes a standalone compiler, in C programming language.
-7. An Ada language implementation (front-end) which also includes a standalone transpiler, in C.
+3. Scheme language implementation (front-end) which also includes a standalone transpiler, in C.
+4. A Unix shell intepreter (a simple bash clone), and a simple Linux/Unix clone.
+5. A C programming language implementation (front-end) which also includes a standalone transpiler, in C.
+6. Implementation of SQL in C.
+7. x-86-64 language implementation (front-end) which also includes a standalone compiler, in C programming language.
+8. An Ada language implementation (front-end) which also includes a standalone transpiler, in C.
 
 ## CS and CE part 3:
 - Higher Category Theory
