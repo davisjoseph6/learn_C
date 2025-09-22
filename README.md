@@ -54,6 +54,7 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 3. An Algol 60 (if possible, or else Pascal) implementation (front-end) which also includes a standalone transpiler, in C.
 4. A Unix shell intepreter (a simple bash clone), and a simple Linux/Unix clone.
 5. Implementation of SQL in C.
+6. Scheme language implementation (front-end) which also includes a standalone transpiler, in C. 
 
 ## CS and CE part 3:
 - Higher Category Theory
