@@ -28,10 +28,11 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - Statistical signal processing
 
 ### Projects part 1:
-1. binary system and x86-64 machine code. 
-2. objdump disassembler and GNU assembler for x-86/64, and x86-64 assembly language. 
+1. binary system and IBM System/360 machine code.  
+2. objdump disassembler and GNU assembler for IBM System/360, and IBM System/360 assembly language.
 3. GCC’s extended inline assembly.
-4. x-86-64 language implementation (front-end) which also includes a standalone compiler, in C programming language.
+4. IBM System/360 assembly language implementation (front-end) which also includes a standalone compiler, in C programming language.
+5. An Algol 60 (if possible, or else Pascal) implementation (front-end) which also includes a standalone transpiler, in C.
 
 ## CS and CE part 2:
 - Graph data structure,
@@ -51,10 +52,12 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 ### Projects part 2. 
 1. A Fortran language implementation (front-end) which also includes a standalone transpiler, in C.
 2. A custom developed C standard library function (method/subroutine), for example print-f.
-3. An Algol 60 (if possible, or else Pascal) implementation (front-end) which also includes a standalone transpiler, in C.
-4. A Unix shell intepreter (a simple bash clone), and a simple Linux/Unix clone.
+3. A Unix shell intepreter (a simple bash clone), and a simple Linux/Unix clone.
+4. A C programming language implementation (front-end) which also includes a standalone transpiler, in C.
 5. Implementation of SQL in C.
-6. Scheme language implementation (front-end) which also includes a standalone transpiler, in C. 
+6. Scheme language implementation (front-end) which also includes a standalone transpiler, in C.
+6. x-86-64 language implementation (front-end) which also includes a standalone compiler, in C programming language.
+7. An Ada language implementation (front-end) which also includes a standalone transpiler, in C.
 
 ## CS and CE part 3:
 - Higher Category Theory
