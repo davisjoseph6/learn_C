@@ -90,15 +90,15 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 ### Projects part 5.
 1. Java: Scala implementations (front-ends) in Java with standalone interpreter (with bytecodes) and Virtual Machine.
 2. Python: AI Project: Deep Multi-Agent Reinforcement Learning with Partially Observable Markov Decision Process (POMDP), Using Policy Gradients and a Transformer-Based Deep Neural Network, with an Exploration/Exploitation Balance, and Deep Q-Learning.
-3. Nvidia CUDA and compiler clone following GPGPU format, with a virtual ISA written in C.  
-4. C++/C: MongoDB server (mongod) in C++ and low level driver (libmongoc + libbson) in C.
+3. Java/C++/C: Distributed/Cloud computing architecture exercise: implement a project involving pi-calculus and an actor model (computer science).
+4. Nvidia CUDA and compiler clone following GPGPU format, with a virtual ISA written in C.  
+5. C++/C: MongoDB server (mongod) in C++ and low level driver (libmongoc + libbson) in C.
 
 ### AI and ML part 3.
 - check the README.md inside this folder path (`2_cs_and_ce/cs_and_ce_part_3/ai_and_ml_part3/`) for topics.
 
 ### Projects part 6.
-1. Java/C++/C: Distributed computing architecture: implement a project involving pi-calculus and an actor model (computer science).
-2. Python and JavaScript: Machine Learning and AI: Move on to hosting and deploying the PAC learning project (from the section Projects part 3.) locally first, then to Amazon Web Services (on SageMaker and Elastic Container Service), Microsoft Azure, or Digital Ocean if the first two options are unavailable.
+1. Python and JavaScript: Machine Learning and AI: Move on to hosting and deploying the PAC learning project (from the section Projects part 3.) locally first, then to Amazon Web Services (on SageMaker and Elastic Container Service), Microsoft Azure, or Digital Ocean if the first two options are unavailable.
 
 # 4 applied,interdisciplinary science
 Application of Computer science in Science, including Computational Science (Physics, Biology, etc.), Numerical Analysis, Combinatorics, mathematics of computing, as well as other interdisciplinary sciences (economics). Check the README.md inside this folder
