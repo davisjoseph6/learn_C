@@ -1,7 +1,8 @@
 Use C programming language only. and **only** where specified, use C++, Java, Python, or JavaScript. But default, everything here should be in pure C.
 - without using computer libraries or frameworks (or atleast as minimally as possible).
-- using vim editor on Ubuntu version 22.04.5 LTS or higher.
-- how to write programs given at the end.
+- using vim standalone editor, or vim on the terminal of Ubuntu version 22.04.5 LTS or higher, (ideally Ubuntu, but if not another post April 2022 Fedora/Debian versions).
+- how to write programs given at the end (refer to this section).
+- please go step by step, top to down, as this is way to strengthen the basics.
 
 # 1 algebraic geometry
 - Algebraic geometry
