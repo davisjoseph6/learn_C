@@ -31,9 +31,18 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - Statistical signal processing
 - Turing machine
 - Recursion, and Continuations
+- Functional programming
+- spectral graph theory
+- relational algebra
+- process calculi
+- theory of cryptography
+- discrete geometry
+- algebraic topology
+- DEC PDP-11 Instruction set Architecture
 
 ### Projects part 1:
-1. binary system and IBM System/360 machine code.  
+1. binary system and IBM System/360 machine code.
+2. Hardware project: Integrated circuits.  
 2. objdump disassembler and GNU assembler for IBM System/360, and IBM System/360 assembly language (if possible, otherwise for IBM High Level Assembler (HLASM)).
 3. GCC’s extended inline assembly.
 4. IBM System/360 assembly language implementation (front-end) which also includes a standalone compiler, in C programming language (if possible, otherwise for IBM High Level Assembler (HLASM)).
