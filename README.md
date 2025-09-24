@@ -70,9 +70,6 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 3. Scheme language implementation (front-end) which also includes a standalone transpiler, in C.
 4. A Unix shell intepreter (a simple bash clone), and a simple Linux/Unix clone.
 5. A C programming language implementation (front-end) which also includes a standalone transpiler, in C.
-6. Implementation of SQL in C.
-7. x-86-64 language implementation (front-end) which also includes a standalone compiler, in C programming language.
-8. An Ada language implementation (front-end) which also includes a standalone transpiler, in C.
 
 ## CS and CE part 3:
 - Higher Category Theory
@@ -80,9 +77,12 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - Mathematical logic
 
 ### Projects part 3.
-1. Machine Learning and AI: A Probably approximately correct (PAC) learning project.
-2. A C++ language implementation (front-ends) in C with standalone interpreter (with bytecodes) and Virtual Machine, in C.
-3. A Python and CPython language implementations (front-ends) in C with standalone interpreter (with bytecodes) and Virtual Machine, in C.
+1. Implementation of SQL in C.
+2. x-86-64 language implementation (front-end) which also includes a standalone compiler, in C programming language.
+3. An Ada language implementation (front-end) which also includes a standalone transpiler, in C.
+4. Machine Learning and AI: A Probably approximately correct (PAC) learning project.
+5. A C++ language implementation (front-ends) in C with standalone interpreter (with bytecodes) and Virtual Machine, in C.
+6. A Python and CPython language implementations (front-ends) in C with standalone interpreter (with bytecodes) and Virtual Machine, in C.
 
 ### Artificial Intelligence and Machine Learning (AI and ML) part 1:
 - Probably approximately correct (PAC) Learning
