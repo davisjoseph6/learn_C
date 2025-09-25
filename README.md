@@ -82,7 +82,8 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 3. An Ada language implementation (front-end) which also includes a standalone transpiler, in C.
 4. Machine Learning and AI: A Probably approximately correct (PAC) learning project.
 5. A C++ language implementation (front-ends) in C with standalone interpreter (with bytecodes) and Virtual Machine, in C.
-6. A Python and CPython language implementations (front-ends) in C with standalone interpreter (with bytecodes) and Virtual Machine, in C.
+6. Completely optional project: Haskell language implementation (front-ends) in C with standalone interpreter (with bytecodes) and Virtual Machine, in C. 
+7. A Python and CPython language implementations (front-ends) in C with standalone interpreter (with bytecodes) and Virtual Machine, in C.
 
 ### Artificial Intelligence and Machine Learning (AI and ML) part 1:
 - Probably approximately correct (PAC) Learning
