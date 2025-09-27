@@ -4,11 +4,12 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - how to write programs given at the end (refer to this section).
 - please go step by step, top to down, as this is way to strengthen the basics.
 
-# 1 algebraic geometry
-- Algebraic geometry
-## Category theory:
-- Category Theory
-- Higher Category Theory 
+# 1 theoretical foundations 
+1. Algebraic geometry
+2. Category Theory
+3. Higher Category Theory
+4. Model theory 
+5. Topos theory
 
 # 2 cs and ce (Computer Science and Computer Engineering)
 
@@ -19,10 +20,7 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - Algebraic data type,
 - Information geometry
 - Linear programming 
-- Topos theory
 - Partial differential equations
-- Category theory
-- Model Theory
 - Domain theory
 - Optimal Control
 - Program analysis
@@ -37,7 +35,9 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - process calculi
 - theory of cryptography
 - discrete geometry
-- algebraic topology
+- sheaf theory/sheaf(mathematics)
+- homotopy theory
+- categorical logic
 - DEC PDP-11 Instruction set Architecture
 
 ### Projects part 1:
@@ -55,7 +55,6 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - buchberger’s algorithm,
 - models of computation
 - Information theory
-- Categorical logic
 - Type theory
 - Denotational semantics
 - Control flow
@@ -63,6 +62,8 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - Convex optimization
 - Cybernetics
 - System theory
+- declarative programming
+- homological algebra
 
 ### Projects part 2. 
 1. A Fortran language implementation (front-end) which also includes a standalone transpiler, in C.
@@ -72,9 +73,10 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 5. A C programming language implementation (front-end) which also includes a standalone transpiler, in C.
 
 ## CS and CE part 3:
-- Higher Category Theory
-- Formal logic
 - Mathematical logic
+- Formal logic
+- Imperative programming.
+- algebraic topology
 
 ### Projects part 3.
 1. Implementation of SQL in C.
@@ -137,4 +139,4 @@ Below is the process and steps I need to follow for writing programs:
 10. Once this is done, you can continue by fulfilling the other requirements, such as coding style, comments, best practices, etc
 
 # Author:
-- Davis Joseph (github: davisjoseph6), with help from Denis.
+- Davis Joseph (github: davisjoseph6), with help from Deniss.
