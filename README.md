@@ -41,6 +41,7 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - categorical logic
 - Reduction (complexity)
 - DEC PDP-11 Instruction set Architecture
+- Finite model theory
 
 ### Projects part 1:
 1. binary system and IBM System/360 machine code.
@@ -67,6 +68,9 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - declarative programming
 - homological algebra
 - theory of cryptography
+- proof theory
+- Recursion/computability theory
+- Set theory
 
 ### Projects part 2. 
 1. A Fortran language implementation (front-end) which also includes a standalone transpiler, in C.
@@ -82,7 +86,6 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - algebraic topology
 - models of computation
 - Logical calculi
-- Computability theory
 
 ### Projects part 3.
 1. Implementation of SQL in C.
