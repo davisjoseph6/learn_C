@@ -28,16 +28,18 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - Maxwell's equations
 - Statistical signal processing
 - Turing machine
+- Lambda calculus
 - Recursion, and Continuations
 - Functional programming
 - spectral graph theory
 - relational algebra
-- process calculi
+- pi-calculus
 - theory of cryptography
 - discrete geometry
 - sheaf theory/sheaf(mathematics)
 - homotopy theory
 - categorical logic
+- Reduction (complexity)
 - DEC PDP-11 Instruction set Architecture
 
 ### Projects part 1:
@@ -52,18 +54,19 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 ## CS and CE part 2:
 - Graph data structure
 - Functional data structures
-- buchberger’s algorithm,
-- models of computation
+- buchberger’s algorithm
 - Information theory
 - Type theory
 - Denotational semantics
 - Control flow
+- process calculus
 - Data modeling
 - Convex optimization
 - Cybernetics
 - System theory
 - declarative programming
 - homological algebra
+- theory of cryptography
 
 ### Projects part 2. 
 1. A Fortran language implementation (front-end) which also includes a standalone transpiler, in C.
@@ -77,6 +80,9 @@ Use C programming language only. and **only** where specified, use C++, Java, Py
 - Formal logic
 - Imperative programming.
 - algebraic topology
+- models of computation
+- Logical calculi
+- Computability theory
 
 ### Projects part 3.
 1. Implementation of SQL in C.
